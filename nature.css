@@ -14,7 +14,7 @@ body{
     width: 100%;
     float:left;
     height: 100vh;
-    background-image: url("../background/nature1.jpg");
+    background-image: url("/nature1.jpg");
     background-size: 100%;
     overflow: hidden;
 
